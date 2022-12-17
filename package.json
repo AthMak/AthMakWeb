@@ -1,0 +1,27 @@
+{
+	"name": "athmakweb",
+	"version": "1.0.0",
+	"description": "",
+	"main": "gulpfile.js",
+	"scripts": {
+		"scss": "gulp sass",
+		"watch": "gulp sass:watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AthMak/AthMakWeb.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AthMak/AthMakWeb/issues"
+	},
+	"homepage": "https://github.com/AthMak/AthMakWeb#readme",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-concat": "^2.6.1",
+		"gulp-sass": "^5.1.0",
+		"node-sass": "^8.0.0",
+		"sass": "^1.57.0"
+	}
+}
